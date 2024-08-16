@@ -13,12 +13,12 @@ public class tareaBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Legion123_bot";
+        return "xx";
     }
 
     @Override
     public String getBotToken() {
-        return "7372534321:AAG_8D-keAf6RGgEQ5KcnX9dyg1UH2sVi40";
+        return "xx";
     }
 
     @Override
